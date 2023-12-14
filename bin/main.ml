@@ -1,0 +1,1 @@
+let () = print_endline (Test_jsoo.Rope.of_string "Hello, charlene!")

@@ -1,0 +1,5 @@
+(rule
+  (alias site)
+  (deps ../bin/main.bc.js index.html)
+  (action
+   (copy ../bin/main.bc.js script.js)))

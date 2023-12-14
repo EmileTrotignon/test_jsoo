@@ -1,0 +1,3 @@
+(library
+(public_name test_jsoo)
+ (name test_jsoo))
